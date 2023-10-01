@@ -1,6 +1,6 @@
 // Ultasonic level sensor code
 
-#define trigPin D0  // const int trigPin = D0;
+#define trigPin D0 
 #define echoPin D1
 long duration;
 float distance;
